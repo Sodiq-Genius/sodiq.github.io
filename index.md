@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Cybersecurity & Networking Projects
-
+* * *
 
 ## Basic Vulnerability Management
 
@@ -11,7 +11,7 @@ This **Vulnerability Management Project** leverages **Tenable Nessus** to proact
 
 Click [here](https://sodiq-genius.github.io/nessus.github.io/) to view this project
 ![26](26.png)
-
+* * *
 
 ## First SIEM
 
