@@ -19,3 +19,13 @@ This **SIEM Project** harnesses the power of **Splunk Enterprise** to transform 
 
 Click [here](https://sodiq-genius.github.io/firstsiem.github.io/) to view this project
 ![40](40.png)
+* * *
+
+
+## Splunk SOAR Deployment
+
+This **Splunk SOAR Installation Project** showcased strong **research, troubleshooting, and problem-solving skills** while deploying **Splunk SOAR** my laptop running a **RHEL 8**. The installation presented unique challenges, including **WiFi connectivity issues** due to RHEL 8’s lack of native support, requiring creative network configuration workarounds. Additionally, a **volume allocation issue** hindered storage setup, demanding in-depth troubleshooting to ensure a stable deployment. Through persistent **research, technical documentation review, and hands-on experimentation**, these challenges were successfully resolved. This project not only deepened my expertise in **SOAR deployment and system configurations** but also reinforced my ability to **diagnose and resolve complex technical issues.
+
+Click [here](https://sodiq-genius.github.io/soarinstallation.github.io/) to view this project
+![40](40.png)
+* * *
