@@ -18,4 +18,4 @@ Click [here](https://sodiq-genius.github.io/nessus.github.io/) to view this proj
 This **SIEM Project** harnesses the power of **Splunk Enterprise** to transform raw system logs from my MacBook Pro into actionable security insights. By **ingesting, analysing, and visualising log data**, the project focuses on detecting potential threats, such as unauthorised access attempts, system misconfigurations, and unusual activity. Custom **dashboards, alerts, and search queries** are designed to uncover security events in real time, enhancing visibility and response capabilities. Through continuous tuning and analysis, this project strengthens **SIEM fundamentals**, including **log correlation, threat detection, and incident response**, while reinforcing a proactive approach to **cybersecurity monitoring and defence**.
 
 Click [here](https://sodiq-genius.github.io/firstsiem.github.io/) to view this project
-![26](26.png)
+![40](40.png)
