@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Here, you'll find real-world applications of **Splunk Enterprise** for powerful security monitoring and **Splunk SOAR** for automated incident response. From threat detection and log analysis to intrusion response and network defense, these projects showcase my ability to turn data into actionable security insights. Dive in to see how I leverage cutting-edge tools to strengthen cybersecurity and streamline operations!
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
